@@ -4,7 +4,8 @@
   "description": "Udemy tutorial",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start":"node server.js"
   },
   "author": "Mike Watson",
   "license": "MIT",
